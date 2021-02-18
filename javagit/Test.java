@@ -3,6 +3,7 @@ package Assign;
 public class Test {
 	public static void main(String[] args) {
 		Test t=new Test();
+		System.out.println("first line");
 		int arr[]=new int[2];
 		int a=2;
 		int b=4;
